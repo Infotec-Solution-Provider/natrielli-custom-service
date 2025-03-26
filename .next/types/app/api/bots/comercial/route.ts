@@ -1,4 +1,4 @@
-// File: C:\Users\rgran\OneDrive\Área de Trabalho\Infotec\inPulse - Microsservices\natrielli-custom-service\src\app\api\bots\comercial\route.ts
+// File: C:\Users\junio\natrielli-custom-service\src\app\api\bots\comercial\route.ts
 import * as entry from '../../../../../../src/app/api/bots/comercial/route.js'
 import type { NextRequest } from 'next/server.js'
 
